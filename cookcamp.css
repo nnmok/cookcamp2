@@ -1,0 +1,270 @@
+a {
+    text-decoration: none;
+    display: block;
+}
+
+aside {
+    float: left;
+    margin-left: 15px;
+    width: 180px;
+}
+
+body {
+    background-color: #FFFFCC;
+    margin: 0;
+    min-width: 960px;
+}
+
+footer {
+    background-color: white;
+    height: 80px;
+    border-top: solid 1px #cccccc;
+}
+
+form {
+    float: right;
+}
+
+h2 {
+    border-radius: 20px;
+    background-color: #FF8C00;
+    color: white;
+    padding: 5px;
+    margin: 8px;
+    background-image: url(dish.png);
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    padding-left: 35px;
+    height: 25px;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+h3 {
+    color: #8B4513;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+header {
+    background-color: white;
+    border-bottom: solid 1px #cccccc;
+    height: 95px;
+}
+
+nav {
+    margin-right: 15px;
+    float: left;
+    width: 290px;
+}
+
+
+.about_continue {
+    float: right;
+    margin: 0px;
+    font-size: 14px;
+    color: #fc8833;
+}
+
+.about_season {
+    float: left;
+    font-size: 14px;
+    width: 290px;
+    margin-right: 10px;
+    line-height: 17px;
+}
+
+.about_spring {
+    float: left;
+    font-size: 14px;
+    width: 290px;
+    margin-right: 10px;
+    line-height: 15px;
+}
+
+.about_washoku {
+    float: left;
+    font-size: 14px;
+    width: 290px;
+    margin-right: 10px;
+    line-height: 15px;
+    margin-top: 10px;
+}
+
+.banner {
+    margin-bottom: 15px;
+}
+
+.body_box {
+    width: 960px;
+    margin: 1px auto 0;
+}
+
+.contents {
+    display: flex;
+    margin-top: 10px;
+}
+
+.copy_right {
+    clear: both;
+    text-align: center;
+    font-size: 8px;
+}
+
+.footer_box {
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.footer_item {
+    text-align: center;
+    flex: 1;
+    float: left;
+    font-size: 10px;
+}
+
+.footer_nav {
+    list-style: none;
+    display: flex;
+    padding-left: 0px;
+}
+
+.header_box {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.header_logo {
+    margin-top: 10px;
+}
+
+.img_fav {
+    background-color: white;
+}
+
+.img_push1 {
+    float: left;
+    margin: 10px 15px 0px;
+}
+
+.img_push2 {
+    float: left;
+    clear: both;
+    margin: 10px 15px 0px;
+}
+
+.img_washoku {
+    float: left;
+    margin: 20px 15px 0px 15px;
+}
+
+.Japanese_food {
+    overflow: auto;
+    background-color: white;
+    margin-bottom: 15px;
+    height: 340px;
+}
+
+.line_right {
+    border-right: solid 0.5px #cccccc;
+}
+
+
+.logo {
+    margin: 0;
+    color: #663300;
+    font-size: 13px;
+    line-height: 0.2px;
+}
+
+.name {
+    font-size: 10px;
+    margin-top: -3px;
+    margin-bottom: 0;
+}
+
+.navigation {
+    float: left;
+    flex: 1;
+    text-align: center;
+    font-size: 14px;
+}
+
+.new {
+    list-style: none;
+    display: flex;
+    padding-inline-start: 0px;
+}
+
+.new_contents {
+    width: 100%;
+}
+
+.new_item {
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+
+.recommended_receipe {
+    overflow: auto;
+    padding-bottom: 15px;
+    height: 400px;
+}
+
+.search {
+    margin-top: 15px;
+}
+
+.search_text {
+    margin-top: 15px;
+    height: 21px;
+    width: 200px;
+}
+
+.title {
+    color: brown;
+    font-size: 12px;
+}
+
+.topic_border {
+    border-bottom: dashed 0.5px #cccccc;
+    height: 30px;
+    line-height: 30px;
+}
+
+.topic_no_border {
+    height: 30px;
+    line-height: 30px
+}
+
+.topic_box {
+    background-color: white;
+    padding: 1px;
+    margin-bottom: 15px;
+}
+
+.topic_navigation {
+    list-style: none;
+    padding-left: 0;
+    margin: 10px;
+}
+
+.top_navigation {
+    list-style: none;
+    text-align: center;
+    display: flex;
+    padding-left: 0px;
+}
+
+.top_image img {
+    width: 100%;
+    clear: both;
+}
+
+.whole_article {
+    float: left;
+    width: 790px;
+}
+
